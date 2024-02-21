@@ -16,11 +16,17 @@ Building a Predictive System: A system is developed to predict whether new email
 Technologies Used:
 
 Python
+
 pandas
+
 scikit-learn
+
 train_test_split
+
 TfidfVectorizer
+
 LogisticRegression
+
 accuracy_score
 
 Outcome:
@@ -28,11 +34,14 @@ Outcome:
 The project aims to accurately classify emails as spam or ham, thus helping users filter out unwanted or potentially harmful emails from their inbox.
 
 Conclusion:
+
 The Spam Mail Prediction project demonstrates the application of machine learning algorithms in classifying emails, contributing to the management of email communications and enhancing user experience.
 
 Dataset Source:
+
 The dataset used in this project can be obtained from the provided Google Drive link or Kaggle.
 
 Acknowledgements:
+
 This project was developed for educational purposes and to enhance understanding of machine learning techniques for text classification. Special thanks to the scikit-learn library for providing efficient tools for model development and evaluation.
 
